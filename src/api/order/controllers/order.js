@@ -38,9 +38,9 @@ module.exports = createCoreController("api::order.order", ({ strapi }) => ({
         customer_email: email,
         mode: "payment",
         // success_url: "http://localhost:3000/checkout/success",
-        success_url: "https://strapi-l6as.onrender.com/checkout/success",
+        success_url: "https://client-ecomer.onrender.com/checkout/success",
         // cancel_url: "http://localhost:3000",
-        cancel_url: "https://strapi-l6as.onrender.com/",
+        cancel_url: "https://client-ecomer.onrender.com/",
         line_items: lineItems,
       });
       // create the item
