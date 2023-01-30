@@ -1,4 +1,4 @@
-<h1><a href="https://strapi-l6as.onrender.com/admin"> Live Site </a></h1>
+<h1><a href="https://strapi-l6as.onrender.com/admin"> Strapi Admin Panel </a></h1>
 
 <h2>Full Stack - Ecommerce Ecomer APP</h2>
 
