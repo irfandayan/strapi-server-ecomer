@@ -3,8 +3,8 @@
 <h2>Full Stack - Ecommerce Ecomer APP</h2>
 
 <h4>Built in:</h4>
-<h4>FrontEnd</h4>
-<h4><a href="https://ecomer3.netlify.app/"> Live Site </a></h4>
+
+<h4><a href="https://ecomer3.netlify.app/"> FrontEnd </a></h4>
 <ul>
 <li>React.js</li>
 <li>Redux Toolkit</li>
@@ -21,5 +21,5 @@
 <ul>
 <li>Strapi.io - Headless CMS </li>
 <li>Depolyment - Render.io </li>
-<li><a href="https://github.com/irfandayan/strapi-server-ecomer"> BackEnd Repo </a></li>
+
 </ul>
